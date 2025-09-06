@@ -1,0 +1,36 @@
+# C++ standard ignores
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.ilk
+*.pdb
+*.idb
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.ipch
+*.opensdf
+*.tlog
+*.log
+*.pch
+*.class
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.exp
+*.bsc
+
+# Visual Studio Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
